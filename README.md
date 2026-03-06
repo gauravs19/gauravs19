@@ -1,8 +1,10 @@
 ### About
 
-I am an Engineering Leader and Solutions Architect with over 18 years of experience designing high-scale, distributed platforms across FinTech, Industrial IoT, and Energy. I specialize in translating complex business objectives into resilient technical strategies that empower engineering teams and drive operational excellence. 
+I am an Engineering Leader and Solutions Architect focused on designing high-scale, distributed platforms across FinTech, Industrial IoT, and Energy. I specialize in translating complex business objectives into resilient technical strategies that empower engineering teams and drive operational excellence. 
 
 Operating at the intersection of **enterprise architecture, cloud-native systems, and Agentic AI**, my core philosophy is that architecture decisions are fundamentally business decisions. I focus on building infrastructure where scale and cost-discipline are designed in from day one. Currently, I am dedicated to transitioning Generative AI from conceptual demos into observable, enterprise-grade production software.
+
+To dive deeper into my architecture case studies or review my CV, please visit my **[Portfolio](https://gauravs19.github.io/portfolio/)**. If you are tackling complex platform scaling issues, navigating enterprise AI rollouts, or just want to talk tech—I'd love to meet. Let's connect on **[LinkedIn](https://www.linkedin.com/in/gauravs19/)**.
 
 ---
 
