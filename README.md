@@ -1,10 +1,8 @@
 ### About
 
-For over 18 years, I have architected high-scale platforms across global enterprises in FinTech, Industrial IoT, and Energy. My focus is on turning ambiguous business problems into clean, resilient architectural decisions that engineering teams can execute and organizations can rely on. 
+I am an Engineering Leader and Solutions Architect with over 18 years of experience designing high-scale, distributed platforms across FinTech, Industrial IoT, and Energy. I specialize in translating complex business objectives into resilient technical strategies that empower engineering teams and drive operational excellence. 
 
-I believe that **architecture decisions are business decisions**. Every technical tradeoff carries a cost in delivery risk, operational overhead, or time-to-market. Whether I'm designing global payment systems or predictive IoT platforms processing terabytes of sensor data, my approach ensures that scale and cost-discipline are built-in from day one.
-
-Currently, I operate at the intersection of **engineering leadership, cloud-native systems, and Agentic AI**. I am focused on building infrastructure that handles today's load while preparing for tomorrow's unknowns—specifically by moving GenAI from conceptual demos into token-efficient, observable, and enterprise-grade production pipelines.
+Operating at the intersection of **enterprise architecture, cloud-native systems, and Agentic AI**, my core philosophy is that architecture decisions are fundamentally business decisions. I focus on building infrastructure where scale and cost-discipline are designed in from day one. Currently, I am dedicated to transitioning Generative AI from conceptual demos into observable, enterprise-grade production software.
 
 ---
 
