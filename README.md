@@ -2,9 +2,7 @@
 
 I am an Engineering Leader and Solutions Architect focused on designing high-scale, distributed platforms. I specialize in translating complex business objectives into resilient technical strategies that empower engineering teams and drive operational excellence. 
 
-Operating at the intersection of **enterprise architecture, cloud-native systems, and Agentic AI**, my core philosophy is that architecture decisions are fundamentally business decisions. I focus on building infrastructure where scale and cost-discipline are designed in from day one. Currently, I am dedicated to transitioning Generative AI from conceptual demos into observable, enterprise-grade production software.
-
-To dive deeper into my architecture case studies or review my CV, please visit my **[Portfolio](https://gauravs19.github.io/portfolio/)**. If you are tackling complex platform scaling issues, navigating enterprise AI rollouts, or just want to talk tech—I'd love to meet. Let's connect on **[LinkedIn](https://www.linkedin.com/in/gauravs19/)**.
+To dive deeper into my architecture case studies or review my CV, please visit my **[Portfolio](https://gauravs19.github.io/portfolio/)**. If you are tackling complex platform scaling issues, navigating enterprise AI rollouts, or just want to talk tech — I'd love to meet. Let's connect on **[LinkedIn](https://www.linkedin.com/in/gauravs19/)**.
 
 ---
 
@@ -14,11 +12,10 @@ To dive deeper into my architecture case studies or review my CV, please visit m
 * **Agentic AI & LLMs:** Moving GenAI into production infrastructure. Emphasizing multi-agent orchestration, LLM observability, and RAG at scale.
 * **Technical Leadership:** Aligning technology strategy with business objectives, scaling high-performing engineering teams, and driving architectural cost-discipline.
 
-### Writing & Projects
+### Writings
 
 * 📰 **[Tech Tradeoff (Substack)](https://techtradeoff.substack.com/)**: Deconstructing the hardest tradeoffs in enterprise architecture, distributed systems, and technical leadership.
 * 📓 **[The Enterprise Presales Playbook](https://github.com/gauravs19/presales-playbook)**: An open-source, comprehensive guide for Solutions Architects on technical discovery, deal orchestration, and architecture defense.
-* 💼 **[Portfolio & Technical Deep-Dives](https://gauravs19.github.io/portfolio/)**: Read the detailed case studies behind my most complex architectures.
 
 ---
 
@@ -59,10 +56,3 @@ To dive deeper into my architecture case studies or review my CV, please visit m
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
 </p>
 
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gauravs19/" style="text-decoration: none;"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://techtradeoff.substack.com/" style="text-decoration: none;"><b>Substack</b></a> &nbsp;·&nbsp;
-  <a href="https://gauravs19.github.io/portfolio/" style="text-decoration: none;"><b>Architecture Portfolio</b></a>
-</div>
