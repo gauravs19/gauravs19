@@ -14,8 +14,8 @@ To dive deeper into my architecture case studies or review my CV, please visit m
 
 ### Writings
 
-* 📰 **[Tech Tradeoff (Substack)](https://techtradeoff.substack.com/)**: Deconstructing the hardest tradeoffs in enterprise architecture, distributed systems, and technical leadership.
-* 📓 **[The Enterprise Presales Playbook](https://github.com/gauravs19/presales-playbook)**: An open-source, comprehensive guide for Solutions Architects on technical discovery, deal orchestration, and architecture defense.
+*  **[Tech Tradeoff (Substack)](https://techtradeoff.substack.com/)**: Deconstructing the hardest tradeoffs in enterprise architecture, distributed systems, and technical leadership.
+*  **[The Enterprise Presales Playbook](https://github.com/gauravs19/presales-playbook)**: An open-source, comprehensive guide for Solutions Architects on technical discovery, deal orchestration, and architecture defense.
 
 ---
 
