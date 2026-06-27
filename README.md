@@ -1,8 +1,9 @@
 # Gaurav Sharma
 
-**Solutions Architect & Engineering Leader.** I turn complex business problems into resilient, cost-optimized platforms — and I build the tools that make good architecture repeatable.
+### Solutions Architect & Engineering Leader
+**I turn complex business problems into resilient, cost-optimized platforms — and build the tools that make good architecture repeatable.**
 
-Eighteen-plus years across financial services, payments, data platforms, and industrial IoT. I design cloud-native, event-driven systems that hold up at real scale — 100K+ connected devices, 300K+ managed assets, millions of events an hour — and take them end to end, from CXO discovery workshops to production SLAs, with delivery across the US, UK, and Japan.
+A versatile, mature engineer with eighteen-plus years spanning financial services, payments, data platforms, and industrial IoT — equally at home in a CXO discovery workshop, a whiteboard design session, and a production incident. I design cloud-native, event-driven systems that hold up at real scale — 100K+ connected devices, 300K+ managed assets, millions of events an hour — and take them end to end, with delivery across the US, UK, and Japan.
 
 ### How I work
 
@@ -99,7 +100,7 @@ Most architecture guidance stops at the slide. I tend to build the opposite — 
 <br/>
 <table>
   <tr><th width="200" align="left">Project</th><th align="left">What it is</th><th width="70"></th></tr>
-  <tr><td valign="top"><b><a href="https://github.com/LittlePlayers">Little Players</a></b></td><td valign="top">A hub of 23 free, colorful learning games for kids across eight categories — built with my own kids as the QA team.</td><td valign="top"><a href="https://littleplayers.github.io/">open</a></td></tr>
+  <tr><td valign="top"><b><a href="https://github.com/LittlePlayers">Little Players</a></b></td><td valign="top">A hub of 23 free, colorful STEM-based learning games for kids across eight categories — simple, hands-on, and free to play.</td><td valign="top"><a href="https://littleplayers.github.io/">open</a></td></tr>
   <tr><td valign="top"><b><a href="https://github.com/chiranjeevis-eternal/chiranjeevis-eternal.github.io">Chiranjeevis Eternal</a></b></td><td valign="top">An interactive-fiction game set in Hindu mythology — the immortal Chiranjeevis stir as the Kali Yuga wanes. Built on the Ink narrative engine with a custom cinematic VFX layer.</td><td valign="top"><a href="https://chiranjeevis-eternal.github.io/">open</a></td></tr>
   <tr><td valign="top"><b><a href="https://github.com/kya-banaon/kya-banaon.github.io">Kya Banaon</a></b></td><td valign="top">A Hindu vegetarian family meal planner — breakfast, lunch, and dinner ideas with sattvic, kids-friendly, and seasonal filters.</td><td valign="top"><a href="https://kya-banaon.github.io/">open</a></td></tr>
 </table>
