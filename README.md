@@ -11,68 +11,24 @@
 
 <p align="center">
   <a href="https://gauravs19.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0a1020?style=for-the-badge&logo=githubpages&logoColor=7db1ff" alt="Portfolio"/></a>
-  <a href="https://techtradeoff.substack.com/"><img src="https://img.shields.io/badge/Tech_Tradeoff-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="https://www.linkedin.com/in/gauravs19/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## ⭐ Featured
-
-<table>
-  <tr>
-    <td width="44%">
-      <a href="https://gauravs19.github.io/archpilot/"><img src="./assets/archpilot.png" alt="Archpilot"/></a>
-    </td>
-    <td width="56%" valign="top">
-      <h3>Archpilot &nbsp;·&nbsp; ⭐ 8</h3>
-      <p>An open-source <b>agentic pipeline</b> that turns a single requirement into deep discovery, EARS-compliant requirements, HLD, LLD, and a scored guardrail review — enforced by 36 enterprise rule files.</p>
-      <p>
-        <a href="https://gauravs19.github.io/archpilot/"><b>Live demo →</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/gauravs19/archpilot">Repo</a>
-        <br/><sub>Python · LLM · Architecture-as-Code · works with Claude Code, Cursor, Copilot</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="44%">
-      <a href="https://gauravs19.github.io/cadex/"><img src="./assets/cadex.png" alt="CADEX"/></a>
-    </td>
-    <td width="56%" valign="top">
-      <h3>CADEX</h3>
-      <p>A free, browser-only <b>deal-qualification framework</b> for IT-consulting presales. Score risk across 8 axes, match an engagement strategy, and run a 42-point quality gate — in 25 minutes, no login, no data leaves your device.</p>
-      <p>
-        <a href="https://gauravs19.github.io/cadex/"><b>Live demo →</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/gauravs19/cadex">Repo</a>
-        <br/><sub>React · TypeScript · Vite · Tailwind</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="44%">
-      <a href="https://pgvitals.github.io/"><img src="./assets/pgvitals.png" alt="pgvitals"/></a>
-    </td>
-    <td width="56%" valign="top">
-      <h3>pgvitals</h3>
-      <p>40 copy-paste <b>PostgreSQL diagnostic queries</b> — one for every performance bottleneck — plus a 0–100 health score, a shareable HTML report, and optional AI analysis. No extensions. No install. Just SQL.</p>
-      <p>
-        <a href="https://pgvitals.github.io/"><b>Live demo →</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/pgvitals/pgvitals">Repo</a>
-        <br/><sub>PL/pgSQL · DBA · performance diagnostics</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔴 More live tools — click to try
+## 🔴 Live tools — click to try
 
 <table>
   <tr align="center">
-    <td width="25%"><a href="https://gauravs19.github.io/nfr-advisor/"><img src="./assets/nfr-advisor.png" alt="NFR Advisor"/><br/><b>NFR Advisor</b></a><br/><sub>Rank quality attributes &amp; trade-offs</sub></td>
+    <td width="25%"><a href="https://gauravs19.github.io/archpilot/"><img src="./assets/archpilot.png" alt="Archpilot"/><br/><b>Archpilot</b> ⭐8</a><br/><sub>Requirement → HLD/LLD → review</sub></td>
+    <td width="25%"><a href="https://gauravs19.github.io/cadex/"><img src="./assets/cadex.png" alt="CADEX"/><br/><b>CADEX</b></a><br/><sub>Presales deal-qualification</sub></td>
+    <td width="25%"><a href="https://pgvitals.github.io/"><img src="./assets/pgvitals.png" alt="pgvitals"/><br/><b>pgvitals</b></a><br/><sub>40 PostgreSQL diagnostics</sub></td>
+    <td width="25%"><a href="https://gauravs19.github.io/nfr-advisor/"><img src="./assets/nfr-advisor.png" alt="NFR Advisor"/><br/><b>NFR Advisor</b></a><br/><sub>Rank quality attributes</sub></td>
+  </tr>
+  <tr align="center">
     <td width="25%"><a href="https://gauravs19.github.io/enterprise-architecture-skill/"><img src="./assets/ea-skill.png" alt="EA Skill"/><br/><b>EA Skill</b></a><br/><sub>C4 · ArchiMate · TOGAF · arc42</sub></td>
     <td width="25%"><a href="https://gauravs19.github.io/iiot-reference-architecture/"><img src="./assets/iiot-ref-arch.png" alt="IIoT Reference Architecture"/><br/><b>IIoT Ref. Arch.</b></a><br/><sub>Industrial IoT blueprint</sub></td>
+    <td width="25%"><a href="https://gauravs19.github.io/presales-playbook/"><img src="./assets/presales.png" alt="Presales Playbook"/><br/><b>Presales Playbook</b></a><br/><sub>The technical seller's manual</sub></td>
     <td width="25%"><a href="https://littleplayers.github.io/"><img src="./assets/littleplayers.png" alt="Little Players"/><br/><b>Little Players</b></a><br/><sub>23 kids' learning games</sub></td>
   </tr>
 </table>
@@ -98,12 +54,10 @@
 <details open>
 <summary><b>🤖 Applied AI &amp; ML</b> — building with AI, not just talking about it</summary>
 
-| Project | What it does | |
-|---|---|---|
-| **[iiot-predictive-maintenance](https://github.com/gauravs19/iiot-predictive-maintenance)** | RUL prediction + failure classification + anomaly detection (PyTorch, AI4I & NASA C-MAPSS) | — |
-| **[iiot-ai-rag](https://github.com/gauravs19/iiot-ai-rag)** | From-scratch RAG over manuals/FMEA + case-based RAG over sensor signatures | — |
-| **[stockmarket-aggregator](https://github.com/gauravs19/stockmarket-aggregator)** | Financial-news sentiment, fully client-side via WebAssembly + Transformers.js | [demo](https://market-signals-pi.vercel.app) |
-| **[claude-usage-monitor](https://github.com/gauravs19/claude-usage-monitor)** | VS Code extension: real-time Claude Code token & rate-limit telemetry | — |
+| Project | What it does |
+|---|---|
+| **[iiot-predictive-maintenance](https://github.com/gauravs19/iiot-predictive-maintenance)** | RUL prediction + failure classification + anomaly detection (PyTorch, AI4I & NASA C-MAPSS) |
+| **[iiot-ai-rag](https://github.com/gauravs19/iiot-ai-rag)** | From-scratch RAG over manuals/FMEA + case-based RAG over sensor signatures |
 
 </details>
 
@@ -113,22 +67,17 @@
 | Project | What it does | |
 |---|---|---|
 | **[iiot-reference-architecture](https://github.com/gauravs19/iiot-reference-architecture)** | Reference architecture for Industrial & Enterprise IoT platforms | [demo](https://gauravs19.github.io/iiot-reference-architecture/) |
-| **[scale-first-ingestion](https://github.com/gauravs19/scale-first-ingestion)** | 100K+ concurrent-asset telemetry ingestion (distributed pipeline patterns) | — |
-| **[scale-first-ingestion-java](https://github.com/gauravs19/scale-first-ingestion-java)** | Reactive Spring Boot 3.2 + Project Reactor twin | — |
 | **[cloud-native-observability](https://github.com/gauravs19/cloud-native-observability)** | Vendor-neutral catalog of metrics, alerts, SLOs & an operating methodology | — |
-| **[enterprise-solutioning-framework](https://github.com/gauravs19/enterprise-solutioning-framework)** | Methodology for architects leading IIoT, GenAI & digital transformations | — |
 
 </details>
 
 <details>
-<summary><b>📖 Writing, Playbooks &amp; Reading</b> — the thinking behind the building</summary>
+<summary><b>📖 Writing &amp; Playbooks</b> — the thinking behind the building</summary>
 
 | Resource | What it is |
 |---|---|
-| **[Tech Tradeoff](https://techtradeoff.substack.com/)** (Substack) | Deconstructing the hardest tradeoffs in enterprise architecture, distributed systems & technical leadership |
 | **[presales-playbook](https://github.com/gauravs19/presales-playbook)** | The missing manual for technical sellers — discovery, deal orchestration & architecture defense ([read](https://gauravs19.github.io/presales-playbook/)) |
 | **[cloud-native-observability](https://github.com/gauravs19/cloud-native-observability)** | Reference catalog you can read end-to-end before you instrument anything |
-| **Curated lists** | [awesome-claude-skills](https://github.com/gauravs19/awesome-claude-skills) · [Awesome-LLMOps](https://github.com/gauravs19/Awesome-LLMOps) |
 
 </details>
 
@@ -138,7 +87,6 @@
 | Project | What it does |
 |---|---|
 | **[viewer2pdf](https://github.com/gauravs19/viewer2pdf)** | Capture canvas/image document viewers (that block download/print) into a PDF — Node + Playwright |
-| **[gs-hawk-terminal](https://github.com/gauravs19/gs-hawk-terminal)** | CLI for NSE stock-market research & signals |
 | **[gs-theme](https://github.com/gauravs19/gs-theme)** | Zero-dependency GitHub Pages landing template (dark hero, 5 accent presets) |
 
 </details>
@@ -149,7 +97,6 @@
 | Project | What it is |
 |---|---|
 | **[Little Players](https://littleplayers.github.io/)** | A hub of 23 free, colorful learning games for kids across 8 categories ([org](https://github.com/LittlePlayers)) |
-| **[LoungeGaming](https://github.com/cyoa/LoungeGaming)** | A browser-based, choose-your-own-adventure game app |
 
 </details>
 
