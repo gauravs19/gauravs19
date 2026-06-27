@@ -26,16 +26,16 @@ Most architecture guidance stops at the slide. I tend to build the opposite — 
 
 <table width="100%">
   <tr align="center">
-    <td width="33%"><a href="https://gauravs19.github.io/archpilot/"><img src="./assets/archpilot.gif" width="100%" alt="Archpilot"/></a><br/><b>Archpilot</b><br/><sub>Requirement-to-design pipeline</sub></td>
-    <td width="33%"><a href="https://gauravs19.github.io/nfr-advisor/"><img src="./assets/nfr-advisor.gif" width="100%" alt="NFR Advisor"/></a><br/><b>NFR Advisor</b><br/><sub>Quality-attribute advisor</sub></td>
-    <td width="33%"><a href="https://gauravs19.github.io/enterprise-architecture-skill/"><img src="./assets/ea-skill.gif" width="100%" alt="EA Skill"/></a><br/><b>EA Skill</b><br/><sub>Architecture diagrams as code</sub></td>
+    <td width="33%"><a href="https://gauravs19.github.io/archpilot/"><img src="./assets/archpilot.png" width="100%" alt="Archpilot"/></a><br/><b>Archpilot</b><br/><sub>Requirement-to-design pipeline</sub></td>
+    <td width="33%"><a href="https://gauravs19.github.io/nfr-advisor/"><img src="./assets/nfr-advisor.png" width="100%" alt="NFR Advisor"/></a><br/><b>NFR Advisor</b><br/><sub>Quality-attribute advisor</sub></td>
+    <td width="33%"><a href="https://gauravs19.github.io/enterprise-architecture-skill/"><img src="./assets/ea-skill.png" width="100%" alt="EA Skill"/></a><br/><b>EA Skill</b><br/><sub>Architecture diagrams as code</sub></td>
   </tr>
 </table>
 <table width="100%">
   <tr align="center">
-    <td width="33%"><a href="https://gauravs19.github.io/cadex/"><img src="./assets/cadex.gif" width="100%" alt="CADEX"/></a><br/><b>CADEX</b><br/><sub>Presales deal qualification</sub></td>
-    <td width="33%"><a href="https://gauravs19.github.io/presales-playbook/"><img src="./assets/presales.gif" width="100%" alt="Presales Playbook"/></a><br/><b>Presales Playbook</b><br/><sub>Technical-selling field manual</sub></td>
-    <td width="33%"><a href="https://pgvitals.github.io/"><img src="./assets/pgvitals.gif" width="100%" alt="pgvitals"/></a><br/><b>pgvitals</b><br/><sub>PostgreSQL diagnostics toolkit</sub></td>
+    <td width="33%"><a href="https://gauravs19.github.io/cadex/"><img src="./assets/cadex.png" width="100%" alt="CADEX"/></a><br/><b>CADEX</b><br/><sub>Presales deal qualification</sub></td>
+    <td width="33%"><a href="https://gauravs19.github.io/presales-playbook/"><img src="./assets/presales.png" width="100%" alt="Presales Playbook"/></a><br/><b>Presales Playbook</b><br/><sub>Technical-selling field manual</sub></td>
+    <td width="33%"><a href="https://pgvitals.github.io/"><img src="./assets/pgvitals.png" width="100%" alt="pgvitals"/></a><br/><b>pgvitals</b><br/><sub>PostgreSQL diagnostics toolkit</sub></td>
   </tr>
 </table>
 
