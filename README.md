@@ -24,12 +24,14 @@ Agentic AI for architecture and delivery, LLM/RAG pipelines, and applied ML for 
 
 Most architecture guidance stops at the slide. I tend to build the opposite — small, open tools and concrete guides that turn principles into something you can run, score, and ship. Each one came out of a real gap in enterprise delivery: discovery, requirements, non-functionals, governance, observability, and presales.
 
-<table>
+<table width="100%">
   <tr align="center">
     <td width="33%"><a href="https://gauravs19.github.io/archpilot/"><img src="./assets/archpilot.png" width="100%" alt="Archpilot"/></a><br/><b>Archpilot</b><br/><sub>Requirement-to-design pipeline</sub></td>
     <td width="33%"><a href="https://gauravs19.github.io/nfr-advisor/"><img src="./assets/nfr-advisor.png" width="100%" alt="NFR Advisor"/></a><br/><b>NFR Advisor</b><br/><sub>Quality-attribute advisor</sub></td>
     <td width="33%"><a href="https://gauravs19.github.io/enterprise-architecture-skill/"><img src="./assets/ea-skill.png" width="100%" alt="EA Skill"/></a><br/><b>EA Skill</b><br/><sub>Architecture diagrams as code</sub></td>
   </tr>
+</table>
+<table width="100%">
   <tr align="center">
     <td width="33%"><a href="https://gauravs19.github.io/cadex/"><img src="./assets/cadex.png" width="100%" alt="CADEX"/></a><br/><b>CADEX</b><br/><sub>Presales deal qualification</sub></td>
     <td width="33%"><a href="https://gauravs19.github.io/presales-playbook/"><img src="./assets/presales.png" width="100%" alt="Presales Playbook"/></a><br/><b>Presales Playbook</b><br/><sub>Technical-selling field manual</sub></td>
