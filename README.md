@@ -1,6 +1,6 @@
 # Gaurav Sharma
 
-### Solutions Architect & Engineering Leader
+### Solution Architect & Engineering Leader
 **I turn complex business problems into resilient, cost-optimized platforms — and build the tools that make good architecture repeatable.**
 
 A versatile, mature engineer with eighteen-plus years spanning financial services, payments, data platforms, and industrial IoT — equally at home in a CXO discovery workshop, a whiteboard design session, and a production incident. I design cloud-native, event-driven systems that hold up at real scale — 100K+ connected devices, 300K+ managed assets, millions of events an hour — and take them end to end, with delivery across the US, UK, and Japan.
